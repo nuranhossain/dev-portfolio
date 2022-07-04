@@ -91,7 +91,7 @@ body{
 
 .experience-area{
     margin-top: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
 
@@ -122,19 +122,19 @@ body{
 }
 
 .full-stack{
-    border-left: 4px solid blue;
+    border-left: 4px solid #4196e6;
 }
 
 .title{
     text-align: center;
-    font-size: 40px;
+    font-size: 46px;
     color: #ff3d4f;
     margin-bottom: 50px;
 }
 
-.footer{
+footer{
     color: gray;
     text-align: center;
-    margin-top: 50px;
+    font-size: 17px;
 }
  
